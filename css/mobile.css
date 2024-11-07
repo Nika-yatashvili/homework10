@@ -1,0 +1,38 @@
+@media (max-width:481px) {
+
+    /* header */
+    header {
+        padding-inline: 8px;
+    }
+
+    /* section1 */
+    .section1 {
+        padding-top: 60px;
+    }
+
+    .sectionTitle {
+        font-size: 32px;
+        letter-spacing: 0.10000000149011612px;
+
+
+    }
+
+    /* section2 */
+    .section2 {
+        padding-inline: 8px;
+
+    }
+
+    .section2Title {
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 32px;
+
+
+    }
+
+    .sectionArticle {
+        flex-basis: 260px;
+    }
+}

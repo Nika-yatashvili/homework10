@@ -1,0 +1,31 @@
+@media (max-width:881px) {
+    /* header */
+    header {
+        padding-inline: 24px;
+        
+    }
+
+    nav {
+        display: none;
+    }
+
+    .headerButton {
+        display: none;
+    }
+
+    .burger {
+        display: block;
+    }
+
+    /* section1 */
+.section1 {
+    padding-top: 80px;
+    
+}
+
+
+/* section2 */
+.section2 {
+    padding: 24px;
+    
+}

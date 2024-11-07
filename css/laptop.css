@@ -1,0 +1,29 @@
+@media (max-width:1301px) {
+/* header */
+header {
+    padding-inline: 64px;
+}
+
+/* section1 */
+.section1 {
+    padding-top: 100px;
+}
+
+
+/* section2 */
+.section2 {
+    padding: 64px;
+    
+
+
+}
+
+.cardSection {
+    overflow-x: scroll;
+}
+
+.sectionArticle {
+    flex: 1 0 298px;
+}
+
+}
