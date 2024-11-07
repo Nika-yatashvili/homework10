@@ -23,7 +23,13 @@ header {
 }
 
 .sectionArticle {
-    flex: 1 0 298px;
+    flex: 1 0 286px;
+}
+
+/* footer */
+
+footer {
+    padding: 64px 0;
 }
 
 }

@@ -5,7 +5,7 @@
         
     }
 
-    nav {
+    .headerNav {
         display: none;
     }
 
@@ -28,4 +28,11 @@
 .section2 {
     padding: 24px;
     
+}
+/* footer */
+footer {
+   padding: 24px 0 ;
+
+}
+
 }

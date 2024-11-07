@@ -35,4 +35,11 @@
     .sectionArticle {
         flex-basis: 260px;
     }
+
+    footer {
+        flex-direction: column;
+        row-gap: 32px;
+    }
+
+
 }
